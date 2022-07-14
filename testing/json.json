@@ -1,0 +1,30 @@
+{
+  "universities" : [
+    {
+      "name": "oxford",
+      "score": 0,
+      "course_satis" : 0,
+      "teaching_satis" : 0,
+      "feedback_satis" : 0,
+      "stu2staff" : 0,
+      "spend_per_stu" : 0,
+      "average_entry_tariff" : 0,
+      "value_added_score" : 0,
+      "career_prospect" : 0,
+      "continuation" : 0
+    },
+    {
+      "name": "cambridge",
+      "score": 0,
+      "course_satis" : 0,
+      "teaching_satis" : 0,
+      "feedback_satis" : 0,
+      "stu2staff" : 0,
+      "spend_per_stu" : 0,
+      "average_entry_tariff" : 0,
+      "value_added_score" : 0,
+      "career_prospect" : 0,
+      "continuation" : 0
+    }
+  ]
+}
