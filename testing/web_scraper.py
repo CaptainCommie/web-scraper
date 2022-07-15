@@ -62,5 +62,13 @@ with open("json.json") as f:
     universities = data["universities"]
     print(universities[0])
 
+with open("json.json") as f:
+    data = json.load(f)
+    universities = data["universities"]
+    for i in rank_2022_list:
+        universities.add()
+
+
+
 
 
